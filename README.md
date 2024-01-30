@@ -1,16 +1,31 @@
-### Hi there 👋
-
-<!--
-**faceman0814/faceman0814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋,I'm FaceMan
+Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/faceman0814/count.svg)  visitor, Thank You!🎉🎉
+</br>
+## 👯 常用语言占比
+![img](https://github-readme-stats.vercel.app/api/top-langs/?username=faceman0814)
+</br>
+## 🌱 仓库状态
+![faceman's GitHub stats](https://github-readme-stats.vercel.app/api?username=faceman0814&show_icons=true&theme=tokyonight)
+</br>
+## 让我们一起改变世界吧！
+```
+                             \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |===========,'
+```
