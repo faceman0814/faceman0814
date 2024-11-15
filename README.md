@@ -7,7 +7,7 @@ Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/faceman08
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ## 👨🏻‍💻 About Me
-- 🔭 &nbsp; I am currently working in Chengdu
+- 🔭 &nbsp; I am currently working in GuangDong
 - 💬 &nbsp; Ask me any questions about AIGC
 - 📫 &nbsp; How to contact me: 1002784867@qq.com
 - 😄 &nbsp; My blog website: https://blog.faceman.cn/
