@@ -36,6 +36,7 @@ Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/faceman08
 <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faceman0814" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faceman0814&repo=SemanticHub)](https://github.com/faceman0814/SemanticHub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faceman0814&repo=FaceMan.Common)](https://github.com/faceman0814/FaceMan.Common)
 </br>
 </br>
 
