@@ -31,15 +31,14 @@ Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/faceman08
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
-
 ## 👯 Project&Common Language Ratio
-<img align="left" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faceman0814" />
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faceman0814&repo=SemanticHub)](https://github.com/faceman0814/SemanticHub)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faceman0814&repo=FaceMan.Common)](https://github.com/faceman0814/FaceMan.Common)
 </br>
 </br>
-
+<img align="left" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faceman0814" />
+</br>
+</br>
 ## 👯 Warehouse situation
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=faceman0814&show_icons=true">
